@@ -214,7 +214,7 @@ Results are saved to `./outputs/<dataset>/`:
 
 ## Reproducing Paper Results
 
-To reproduce the main results reported in the paper on the OAI dataset (WOMAC / KLG targets):
+To reproduce the main results reported in the paper, please see appendix in the paper for cost weights we used:
 
 ```bash
 # WOMAC target
